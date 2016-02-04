@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-jack made changes to the code #1.
-=======
-jack made changes to the code #1.
-
-jil made changes to this code #2.
-
-changes
->>>>>>> 28ec10a8e5096e409c7e3e5b0988337fe70017d5
+JIL
